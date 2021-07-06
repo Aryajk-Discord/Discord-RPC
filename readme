@@ -1,3 +1,0 @@
-1- Open Config.json
-2- Copy And Paste Your Client Id From Here https://discord.com/developers/applications in client id field
-3- set large image and small image on https://discord.com/developers/applications for your client and paste image name on config.json (smallimagekey, largeimagekey)
